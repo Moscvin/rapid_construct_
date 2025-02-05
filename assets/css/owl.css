@@ -184,3 +184,37 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+
+
+  /** 
+  
+  **/
+ 
+
+
+.fa-brands {
+  transition: all 0.3s ease; 
+  color: black; 
+  font-size: 2rem;
+  padding: 15px;
+}
+
+
+.fa-brands:hover {
+  color: #f35524; 
+  transform: scale(1.2); 
+}
+
+.left-icon{
+  transition: transform 0.5s ease-in-out;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.40);
+  ;
+}
+.left-icon:hover{
+  transform: scale(1.2);
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.45);
+
+}
+
+
